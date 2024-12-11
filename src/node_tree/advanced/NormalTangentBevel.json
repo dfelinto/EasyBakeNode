@@ -1,0 +1,28 @@
+{
+    "Name": "NormalTangentBevel",
+    "Material": "NormalTangentBevel",
+    "Run": "run.py",
+    "BakeType": "NORMAL",
+    "Params": {
+        "Bevel:['samples']": {
+            "name": "samples",
+            "display_name": "Samples",
+            "node": "Bevel",
+            "data_path": "node_tree.nodes[\"Bevel\"].samples",
+            "type": "INT",
+            "default": 2,
+            "min": 2,
+            "max": 16,
+            "step": 1
+        },
+        "Bevel:['Radius']": {
+            "name": "Radius",
+            "display_name": "Radius",
+            "node": "Bevel",
+            "data_path": "node_tree.nodes[\"Bevel\"].inputs[0].default_value",
+            "type": "VALUE",
+            "default": 0.05000000074505806
+        }
+    },
+    "Description": ""
+}

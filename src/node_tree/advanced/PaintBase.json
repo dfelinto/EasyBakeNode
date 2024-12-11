@@ -1,0 +1,8 @@
+{
+    "Name": "PaintBase",
+    "Material": "PaintBase",
+    "Run": "run.py",
+    "BakeType": "EMIT",
+    "Params": {},
+    "Description": ""
+}

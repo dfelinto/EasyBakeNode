@@ -1,0 +1,8 @@
+{
+    "Name": "ElementID",
+    "Material": "ElementID",
+    "Run": "ElementID.py",
+    "BakeType": "EMIT",
+    "Params": {},
+    "Description": "分离块ID"
+}

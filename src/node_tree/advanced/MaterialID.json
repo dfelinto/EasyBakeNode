@@ -1,0 +1,8 @@
+{
+    "Name": "MaterialID",
+    "Material": "MaterialID",
+    "Run": "MaterialID.py",
+    "BakeType": "EMIT",
+    "Params": {},
+    "Description": "材质ID"
+}

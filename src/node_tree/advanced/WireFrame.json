@@ -1,0 +1,17 @@
+{
+    "Name": "WireFrame",
+    "Material": "WireFrame",
+    "Run": "run.py",
+    "BakeType": "EMIT",
+    "Params": {
+        "Value:['Value']": {
+            "name": "Value",
+            "display_name": "Thickness",
+            "node": "Value",
+            "data_path": "node_tree.nodes[\"Value\"].outputs[0].default_value",
+            "type": "VALUE",
+            "default": 1.0
+        }
+    },
+    "Description": ""
+}

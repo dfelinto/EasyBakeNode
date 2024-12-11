@@ -1,0 +1,8 @@
+{
+    "Name": "Selection",
+    "Material": "Selection",
+    "Run": "Selection.py",
+    "BakeType": "EMIT",
+    "Params": {},
+    "Description": ""
+}

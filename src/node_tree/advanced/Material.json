@@ -1,0 +1,8 @@
+{
+    "Name": "Material",
+    "Material": "Material",
+    "Run": "run.py",
+    "BakeType": "COMBINED",
+    "Params": {},
+    "Description": ""
+}
