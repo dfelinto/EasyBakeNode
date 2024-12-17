@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "BlenderAI_EasyBakeNode"
+version = "0.0.1"
+name = "Easy Bake Node"
+tagline = "Baking functionality for ComfyUI"
+maintainer = "AIGODLIKE <karrycharon@qq.com>"
+type = "add-on"
+
+permissions = ["files", "network"]
+
+website = "https://github.com/AIGODLIKE/EasyBakeNode"
+tags = ["Node", "Render"]
+
+blender_version_min = "4.2.0"
+# Optional: maximum supported Blender version
+# blender_version_max = "5.1.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
